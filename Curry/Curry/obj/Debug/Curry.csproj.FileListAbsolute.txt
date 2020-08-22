@@ -1,6 +1,0 @@
-D:\Work\VS\Curry\Curry\bin\Debug\Curry.exe.config
-D:\Work\VS\Curry\Curry\bin\Debug\Curry.exe
-D:\Work\VS\Curry\Curry\bin\Debug\Curry.pdb
-D:\Work\VS\Curry\Curry\obj\Debug\Curry.csprojAssemblyReference.cache
-D:\Work\VS\Curry\Curry\obj\Debug\Curry.exe
-D:\Work\VS\Curry\Curry\obj\Debug\Curry.pdb
